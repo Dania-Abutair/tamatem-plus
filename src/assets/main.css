@@ -1,0 +1,33 @@
+@import './base.css';
+
+.app-container {
+  min-height: 100vh;
+  padding: 65px 0;
+  display: flex;
+  justify-content: center;
+}
+  
+.app-container .login-card {
+  max-width: 768px;
+  background-color: var(--white-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  min-height: 100%;
+  width: 100%;
+  box-shadow: 0px 3px 6px var(--box-shadow-color);
+  border-radius: 4px;
+}
+
+/* Style for Tablet and Mobile Screen */
+@media (max-width:768px) {
+  .app-container {
+    align-items: center;
+    padding: 0 30px;
+  }
+  
+  .login-card {
+    padding: 22px 21px;
+  }
+}

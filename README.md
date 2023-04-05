@@ -1,14 +1,11 @@
 # tamatem-plus
+Tamatem Plus Project Is A Login Page With Email And Password using Vue 3 in Vite.
 
-This template should help get you started developing with Vue 3 in Vite.
+# Vuetify
 
-## Recommended IDE Setup
+I used Vuetify instead of material design.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Every component in Vuetify is handcrafted under the guise of Google’s Material Design specification and comes with hundreds of customization options that fit any style or design; even if it’s not Material. Write Vue templates that are as concise or verbose as you want using exlusively or a combination of props, slots, and components.
 
 ## Project Setup
 

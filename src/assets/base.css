@@ -1,0 +1,20 @@
+
+:root {
+  --body-background-color: #EFEFEF;
+  --login-button-color:#C3001E;
+  --error-color:#B00020;
+  --white-color:#FFFFFF;
+  --border-input-color:#0000006e;
+  --box-shadow-color:#00000029;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--body-background-color);
+  font-family: 'Roboto', sans-serif;
+}
