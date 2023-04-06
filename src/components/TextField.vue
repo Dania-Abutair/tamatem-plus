@@ -39,10 +39,4 @@ export default {
     }
   }
 }
-.v-field--variant-outlined .v-field__outline__end, .v-field--variant-outlined .v-field__outline__end {
-  border-radius: 0 4px 4px 0;
-}
-.v-field--variant-outlined .v-field__outline__start, .v-field--variant-outlined .v-field__outline__start {
-    border-radius: 4px 0 0 4px;
-}
 </style>

@@ -27,7 +27,8 @@
     padding: 0 30px;
   }
   
-  .login-card {
+  .app-container .login-card {
     padding: 22px 21px;
+    min-height: auto;
   }
 }
